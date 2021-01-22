@@ -1,3 +1,11 @@
+<h2>Madushanka KPD.</h2>
+<h3>Discord Frontend Clone - <u>React Redux App</u></h3>
+<br/>
+<h3>Link for the app :</h3><b><h3>https://discord-clone-45e9d.web.app/</b></h3>
+
+
+
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
